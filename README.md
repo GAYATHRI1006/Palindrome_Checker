@@ -4,7 +4,7 @@ A simple and interactive **Palindrome Checker** built using **HTML**, **CSS**, a
 
 ## Demo
 
-[Live Demo](https://palindrome-checker-sample.netlify.app/)  
+🔗 [Live Demo](https://palindrome-checker-sample.netlify.app/)  
 
 ## Developed By
 **Gayathri G**  
